@@ -15,4 +15,5 @@ code {
 .msg {
   text-align: center;
   color: grey;
+  font-style: italic;
 }
